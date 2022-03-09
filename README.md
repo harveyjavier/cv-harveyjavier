@@ -24,6 +24,7 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 * May 2019 - 2022
 * Leads SparkPoint Ecosystem's SparkPoint Wallet and SparkPlay platforms, specializing in mobile (Android and iOS) application development.
 
+
 * Position: Technical Advisor
 * May 2022 - PRESENT
 * Technical advisory tasks for SparkPoint Technologies' tech products, specifically the SparkPoint Non-custodial Crypto Wallet.
