@@ -21,12 +21,12 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 ### SparkPoint Technologies Inc.
 
 * Position: Lead Mobile Developer
-* May 2019 - 2022
+* May 2019 - January 2022
 * Leads SparkPoint Ecosystem's SparkPoint Wallet and SparkPlay platforms, specializing in mobile (Android and iOS) application development.
 
 
 * Position: Technical Advisor
-* May 2022 - PRESENT
+* January 2022 - PRESENT
 * Technical advisory tasks for SparkPoint Technologies' tech products, specifically the SparkPoint Non-custodial Crypto Wallet.
 
 ### SparkLearn EdTech Inc.
