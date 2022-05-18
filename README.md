@@ -89,7 +89,7 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 * Selected as one of the trainers in SparkLearn's Blockchain Developer Bootcamp 2021. My course was titled "React JS Development". React is one of the preferred front-end tools in interacting with Web3. In this cohort I trained several students from all over the world all about the basics of React JS.
 * September 2021 to March 2022
 
-### Curriculum Review and Industry Consultation
+### DWCL CS/IT Dept. Curriculum Review and Industry Consultation 2022
 
 * The Divine Word College of Legazpi CS/IT Department consulted from tech industry leaders in Albay to improve their curriculum. I introduced them Blockchain Technology and other web3 related topics.
 * February 24, 2022 via Google Meet
