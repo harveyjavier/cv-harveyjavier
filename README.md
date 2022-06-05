@@ -146,10 +146,6 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 
 * Issued by IBM ([harvz.link/i/17081ea409bb4e5e9aea028deddcf0bb](https://harvz.link/i/17081ea409bb4e5e9aea028deddcf0bb)) on July 2019
 
-### Blockchain Essentials
-
-* Issued by IBM ([harvz.link/i/c2f12ca1956c40ccbf2fb8f0a6e4d4d4](https://harvz.link/i/c2f12ca1956c40ccbf2fb8f0a6e4d4d4)) on June 2019
-
 ### Build Your Own Chatbot
 
 * Issued by IBM ([harvz.link/i/df8bf05245a74867b85fb87988f6bda3](https://harvz.link/i/df8bf05245a74867b85fb87988f6bda3)) on June 2019
