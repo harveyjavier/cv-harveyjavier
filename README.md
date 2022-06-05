@@ -104,15 +104,15 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 
 ### Crash Course on Python
 
-* Issued by Coursera ([harvz.link/c/K4K3GTLXL8MR](https://harvz.link/c/K4K3GTLXL8MR)) on November 2020
+* Issued by Coursera ([harvz.link/ccOnPython](https://harvz.link/ccOnPython)) on November 2020
 
 ### Introduction to Git and GitHub
 
-* Issued by Coursera ([harvz.link/c/M5P83RAPRA95](https://harvz.link/c/M5P83RAPRA95)) on November 2020
+* Issued by Coursera ([harvz.link/introToGit](https://harvz.link/introToGit)) on November 2020
 
 ### Troubleshooting and Debugging Techniques
 
-* Issued by Coursera ([harvz.link/c/U6HMQBTS727W](https://harvz.link/c/U6HMQBTS727W)) on October 2020
+* Issued by Coursera ([harvz.link/debuggingTechniques](https://harvz.link/debuggingTechniques)) on October 2020
 
 ### Flutter Hack20
 
@@ -120,19 +120,19 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 
 ### Game Development for Modern Platforms
 
-* Issued by Coursera ([harvz.link/c/8LG5S5L894E8](https://harvz.link/c/8LG5S5L894E8)) on April 2020
+* Issued by Coursera ([harvz.link/gameDev4ModernPlatforms](https://harvz.link/gameDev4ModernPlatforms)) on April 2020
 
 ### Introduction to Game Development
 
-* Issued by Coursera ([harvz.link/c/DNTJQE4C6C2U](https://harvz.link/c/DNTJQE4C6C2U)) on March 2020
+* Issued by Coursera ([harvz.link/intro2GameDev](https://harvz.link/intro2GameDev)) on March 2020
 
 ### Introduction to C# Programming and Unity
 
-* Issued by Coursera ([harvz.link/c/E3BZJBLWH85D](https://harvz.link/c/E3BZJBLWH85D)) on March 2020
+* Issued by Coursera ([harvz.link/intro2Unity](https://harvz.link/intro2Unity)) on March 2020
 
 ### Game-playing AI with Swift for TensorFlow
 
-* Issued by IBM ([harvz.link/i/6da06d0636b54eda9eb1133b3ed0cc52](https://harvz.link/i/6da06d0636b54eda9eb1133b3ed0cc52)) on February 2020
+* Issued by IBM ([harvz.link/gameDev4ModernPlatforms](https://harvz.link/gameDev4ModernPlatforms)) on February 2020
 
 ### Flutter Clock Challenge
 
@@ -140,27 +140,27 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 
 ### Docker Essentials: A Developer Introduction
 
-* Issued by IBM ([harvz.link/i/1e23c1531d7d47fe87bf341b7c98d21d](https://harvz.link/i/1e23c1531d7d47fe87bf341b7c98d21d)) on July 2019
+* Issued by IBM ([harvz.link/dockerEssentials](https://harvz.link/dockerEssentials)) on July 2019
 
 ### Machine Learning with Python
 
-* Issued by IBM ([harvz.link/i/17081ea409bb4e5e9aea028deddcf0bb](https://harvz.link/i/17081ea409bb4e5e9aea028deddcf0bb)) on July 2019
+* Issued by IBM ([harvz.link/mlWithPython](https://harvz.link/mlWithPython)) on July 2019
 
 ### Build Your Own Chatbot
 
-* Issued by IBM ([harvz.link/i/df8bf05245a74867b85fb87988f6bda3](https://harvz.link/i/df8bf05245a74867b85fb87988f6bda3)) on June 2019
+* Issued by IBM ([harvz.link/bldYourOwnChatbot](https://harvz.link/bldYourOwnChatbot)) on June 2019
 
 ### Building Robots with TJBot
 
-* Issued by IBM ([harvz.link/i/32e5f40be2da4bf0b5c98d22ab0c4d38](https://harvz.link/i/32e5f40be2da4bf0b5c98d22ab0c4d38)) on June 2019
+* Issued by IBM ([harvz.link/bldngRobotsWithTjBot](https://harvz.link/bldngRobotsWithTjBot)) on June 2019
 
 ### IBM Blockchain Foundation Developer
 
-* Issued by IBM ([harvz.link/i/99758a1ff0164d278ed7dbcf06487dc5](https://harvz.link/i/99758a1ff0164d278ed7dbcf06487dc5)) on June 2019
+* Issued by IBM ([harvz.link/ibmBlockchainFoundationDev](https://harvz.link/ibmBlockchainFoundationDev)) on June 2019
 
 ### Python for Data Science
 
-* Issued by IBM ([harvz.link/i/fc07480c70784f978968e06ef362c21f](https://harvz.link/i/fc07480c70784f978968e06ef362c21f)) on June 2019
+* Issued by IBM ([harvz.link/python4DataScience](https://harvz.link/python4DataScience)) on June 2019
 
 ## SOFTWARES DEVELOPED
 
