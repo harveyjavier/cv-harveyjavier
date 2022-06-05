@@ -349,7 +349,7 @@ Open source and available on Github: [harvz.link/chemClock](https://harvz.link/c
 
 ### Axie Progress Tracker
 
-* A simple progress tracker for Axie Infinity scholars and managers. It is also open source and the code is available on [github.com/harveyjavier/axie-tracker](https://github.com/harveyjavier/axie-tracker) under MIT license.
+* A simple progress tracker for Axie Infinity scholars and managers. It is also open source and the code is available on [harvz.link/axieTrackerGH](https://harvz.link/axieTrackerGH) under MIT license.
 * Platform: Web
 * Web app link: [harvz.link/axieTracker](https://harvz.link/axieTracker)
 * Own project
