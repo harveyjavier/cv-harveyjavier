@@ -357,7 +357,7 @@ Open source and available on Github: [harvz.link/chemClock](https://harvz.link/c
 
 ### SparkLearn EdTech Web App
 
-* An MOOC platform for SparkLearn EdTech's online courses, and one of its flagship course, the Blockchain Developer Bootcamp ([https://lrn.ac/bdb](https://bootcamp.sparklearn-edtech.com)).
+* An MOOC platform for SparkLearn EdTech's online courses, and one of its flagship course, the Blockchain Developer Bootcamp ([lrn.ac/bdb](https://lrn.ac/bdb)).
 * Platform: Web
 * Web app link: [lrn.ac/app](https://lrn.ac/app)
 * Employer: SparkLearn EdTech Inc.
