@@ -328,7 +328,7 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 
 * A digital clock app inspired by the Periodic Table of Elements. An entry for Flutter Clock Challenge.
 * Platform: Android
-Open source and available on Github: [harvz.link/chemClock](https://harvz.link/chemClock).
+* Open source and available on Github: [harvz.link/chemClock](https://harvz.link/chemClock).
 * Own Project
 * Deployed on 2020
 
@@ -349,8 +349,9 @@ Open source and available on Github: [harvz.link/chemClock](https://harvz.link/c
 
 ### Axie Progress Tracker
 
-* A simple progress tracker for Axie Infinity scholars and managers. It is also open source and the code is available on [harvz.link/axieTrackerGH](https://harvz.link/axieTrackerGH) under MIT license.
+* A simple progress tracker for Axie Infinity scholars and managers.
 * Platform: Web
+* Open source and available on Github: [harvz.link/axieTrackerGH](https://harvz.link/axieTrackerGH)
 * Web app link: [harvz.link/axieTracker](https://harvz.link/axieTracker)
 * Own project
 * Deployed on 2021
