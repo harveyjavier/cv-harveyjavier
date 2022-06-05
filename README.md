@@ -363,15 +363,14 @@ Open source and available on Github: [harvz.link/chemClock](https://harvz.link/c
 
 * An MOOC platform for SparkLearn EdTech's online courses, and one of its flagship course, the Blockchain Developer Bootcamp ([https://lrn.ac/bdb](https://bootcamp.sparklearn-edtech.com)).
 * Platform: Web
-* Web app link: [lrn.ac/web](https://lrn.ac/web)
+* Web app link: [lrn.ac/app](https://lrn.ac/app)
 * Employer: SparkLearn EdTech Inc.
 * Deployed on 2022
 
 ### SparkLearn EdTech Payment App
 
-* Payment web app for accessing the paid courses of SparkLearn EdTech's MOOC ([https://lrn.ac/web](https://sparklearn-edtech.com)), and Blockchain Developer Bootcamp ([https://lrn.ac/bdb](https://bootcamp.sparklearn-edtech.com)). You can pay via crypto using MetaMask wallet with the following supported tokens: SRK, SRKb, SFUEL, ETH, BNB, USDT, BUSD. Payment via fiat will be rolled out soon.
+* Payment web app for accessing the paid courses of SparkLearn EdTech's MOOC ([lrn.ac/app](https://lrn.ac/app)), and Blockchain Developer Bootcamp ([lrn.ac/bdb](https://lrn.ac/bdb)). You can pay via crypto using MetaMask wallet with the following supported tokens: SRK, SRKb, SFUEL, ETH, BNB, USDT, BUSD. Payment via fiat will be rolled out soon.
 * Platform: Web
-* Web app link: [lrn.ac/bdb](https://lrn.ac/bdb)
 * Employer: SparkLearn EdTech Inc.
 * Deployed on 2022
 
