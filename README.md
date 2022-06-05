@@ -150,10 +150,6 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 
 * Issued by IBM ([harvz.link/bldYourOwnChatbot](https://harvz.link/bldYourOwnChatbot)) on June 2019
 
-### Building Robots with TJBot
-
-* Issued by IBM ([harvz.link/bldngRobotsWithTjBot](https://harvz.link/bldngRobotsWithTjBot)) on June 2019
-
 ### IBM Blockchain Foundation Developer
 
 * Issued by IBM ([harvz.link/ibmBlockchainFoundationDev](https://harvz.link/ibmBlockchainFoundationDev)) on June 2019
