@@ -116,7 +116,7 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 
 ### Flutter Hack20
 
-* Issued by [Flutter Community](https://harvz.link/flutterHack20) on June 2020
+* Issued by Flutter Community ([harvz.link/flutterHack20](https://harvz.link/flutterHack20)) on June 2020
 
 ### Game Development for Modern Platforms
 
