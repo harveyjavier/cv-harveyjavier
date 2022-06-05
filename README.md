@@ -104,67 +104,67 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 
 ### Crash Course on Python
 
-* Issued by [Coursera](https://www.coursera.org/account/accomplishments/certificate/K4K3GTLXL8MR) on November 2020
+* Issued by Coursera ([harvz.link/c/K4K3GTLXL8MR](https://harvz.link/c/K4K3GTLXL8MR)) on November 2020
 
 ### Introduction to Git and GitHub
 
-* Issued by [Coursera](https://www.coursera.org/account/accomplishments/certificate/M5P83RAPRA95) on November 2020
+* Issued by Coursera ([harvz.link/c/M5P83RAPRA95](https://harvz.link/c/M5P83RAPRA95)) on November 2020
 
 ### Troubleshooting and Debugging Techniques
 
-* Issued by [Coursera](https://www.coursera.org/account/accomplishments/certificate/U6HMQBTS727W) on October 2020
+* Issued by Coursera ([harvz.link/c/U6HMQBTS727W](https://harvz.link/c/U6HMQBTS727W)) on October 2020
 
 ### Flutter Hack20
 
-* Issued by [Flutter Community](https://firebasestorage.googleapis.com/v0/b/harveyjavier-github-io.appspot.com/o/pdf%2Fhack20-certificate.pdf?alt=media&token=8f266565-58e6-4a70-8a7a-316b52c325d2) on June 2020
+* Issued by [Flutter Community](https://harvz.link/flutterHack20) on June 2020
 
 ### Game Development for Modern Platforms
 
-* Issued by [Coursera](https://www-origin.coursera.org/account/accomplishments/certificate/8LG5S5L894E8) on April 2020
+* Issued by Coursera ([harvz.link/c/8LG5S5L894E8](https://harvz.link/c/8LG5S5L894E8)) on April 2020
 
 ### Introduction to Game Development
 
-* Issued by [Coursera](https://www.coursera.org/account/accomplishments/certificate/DNTJQE4C6C2U) on March 2020
+* Issued by Coursera ([harvz.link/c/DNTJQE4C6C2U](https://harvz.link/c/DNTJQE4C6C2U)) on March 2020
 
 ### Introduction to C# Programming and Unity
 
-* Issued by [Coursera](https://www.coursera.org/account/accomplishments/certificate/E3BZJBLWH85D) on March 2020
+* Issued by Coursera ([harvz.link/c/E3BZJBLWH85D](https://harvz.link/c/E3BZJBLWH85D)) on March 2020
 
 ### Game-playing AI with Swift for TensorFlow
 
-* Issued by [IBM](https://courses.cognitiveclass.ai/certificates/6da06d0636b54eda9eb1133b3ed0cc52) on February 2020
+* Issued by IBM ([harvz.link/i/6da06d0636b54eda9eb1133b3ed0cc52](https://harvz.link/i/6da06d0636b54eda9eb1133b3ed0cc52)) on February 2020
 
 ### Flutter Clock Challenge
 
-* Issued by [Google](https://www.credential.net/d567df27-1936-4f89-9de1-1a6c07f609ff?key=f7c93f2099e93328887ca1678ce03a5d35e0926dfd2e57e45a9d13026698e34b) on January 2020
+* Issued by Google ([harvz.link/flutterClockChallenge](https://harvz.link/flutterClockChallenge)) on January 2020
 
 ### Docker Essentials: A Developer Introduction
 
-* Issued by [IBM](https://courses.cognitiveclass.ai/certificates/1e23c1531d7d47fe87bf341b7c98d21d) on July 2019
+* Issued by IBM ([harvz.link/i/1e23c1531d7d47fe87bf341b7c98d21d](https://harvz.link/i/1e23c1531d7d47fe87bf341b7c98d21d)) on July 2019
 
 ### Machine Learning with Python
 
-* Issued by [IBM](https://courses.cognitiveclass.ai/certificates/17081ea409bb4e5e9aea028deddcf0bb) on July 2019
+* Issued by IBM ([harvz.link/i/17081ea409bb4e5e9aea028deddcf0bb](https://harvz.link/i/17081ea409bb4e5e9aea028deddcf0bb)) on July 2019
 
 ### Blockchain Essentials
 
-* Issued by [IBM](https://courses.cognitiveclass.ai/certificates/c2f12ca1956c40ccbf2fb8f0a6e4d4d4) on June 2019
+* Issued by IBM ([harvz.link/i/c2f12ca1956c40ccbf2fb8f0a6e4d4d4](https://harvz.link/i/c2f12ca1956c40ccbf2fb8f0a6e4d4d4)) on June 2019
 
 ### Build Your Own Chatbot
 
-* Issued by [IBM](https://courses.cognitiveclass.ai/certificates/df8bf05245a74867b85fb87988f6bda3) on June 2019
+* Issued by IBM ([harvz.link/i/df8bf05245a74867b85fb87988f6bda3](https://harvz.link/i/df8bf05245a74867b85fb87988f6bda3)) on June 2019
 
 ### Building Robots with TJBot
 
-* Issued by [IBM](https://courses.cognitiveclass.ai/certificates/32e5f40be2da4bf0b5c98d22ab0c4d38) on June 2019
+* Issued by IBM ([harvz.link/i/32e5f40be2da4bf0b5c98d22ab0c4d38](https://harvz.link/i/32e5f40be2da4bf0b5c98d22ab0c4d38)) on June 2019
 
 ### IBM Blockchain Foundation Developer
 
-* Issued by [IBM](https://courses.cognitiveclass.ai/certificates/99758a1ff0164d278ed7dbcf06487dc5) on June 2019
+* Issued by IBM ([harvz.link/i/99758a1ff0164d278ed7dbcf06487dc5](https://harvz.link/i/99758a1ff0164d278ed7dbcf06487dc5)) on June 2019
 
 ### Python for Data Science
 
-* Issued by [IBM](https://courses.cognitiveclass.ai/certificates/fc07480c70784f978968e06ef362c21f) on June 2019
+* Issued by IBM ([harvz.link/i/fc07480c70784f978968e06ef362c21f](https://harvz.link/i/fc07480c70784f978968e06ef362c21f)) on June 2019
 
 ## SOFTWARES DEVELOPED
 
@@ -270,7 +270,7 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 
 * A food delivery, assitance, and freight forwarding mobile application integrated with cryptocurrency rewards using SparkPoint's token, SRK.
 * Plaform: Android
-* Available on Google Play: [bit.ly/dlvery_expark](https://play.google.com/store/apps/details?id=com.expark)
+* Available on Google Play: [harvz.link/dlx](https://harvz.link/dlx)
 * Employer: SparkPoint Technologies Inc.
 * Deployed on 2019
 
@@ -278,7 +278,7 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 
 * The rider app of Dlvery Expark.
 * Plaform: Android
-* Available on Google Play: [bit.ly/dlvery_expark_rider](https://play.google.com/store/apps/details?id=com.exparkrider)
+* Available on Google Play: [harvz.link/dlxRider](https://harvz.link/dlxRider)
 * Employer: SparkPoint Technologies Inc.
 * Deployed on 2019
 
@@ -286,8 +286,8 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 
 * A cryptocurrency wallet app customized for SparkPoint Technologies' own ERC-20 token, SRK, and BEP-20 tokens, SRKb and SFUEL. It also supports storing, sending, and receiving of other coins (BTC, ETH, BNB BEP-2) and selected ERC-20 and BEP-20 tokens. And it has a built-in exchange platform via ChangeNOW or Changelly.
 * Plaform: Android and iOS
-* Available on Google Play: [srk.sh/wallet](https://play.google.com/store/apps/details?id=com.sparkpoint)
-* Available on App Store: [srk.sh/ioswallet](https://apps.apple.com/us/app/sparkpoint-crypto-wallet/id1572629350)
+* Available on Google Play: [srk.sh/wallet](https://srk.sh/wallet)
+* Available on App Store: [srk.sh/ioswallet](https://srk.sh/ioswallet)
 * Employer: SparkPoint Technologies Inc.
 * Deployed on 2019
 
@@ -295,7 +295,7 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 
 * A casual 2D pixel game for Android.
 * Platform: Android
-* Available on Google Play: [bit.ly/pixelclimb](https://play.google.com/store/apps/details?id=com.harvz.pixelclimb)
+* Available on Google Play: [harvz.link/pixelClimb](https://harvz.link/pixelClimb)
 * Own Project
 * Deployed on 2019
 
@@ -303,7 +303,7 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 
 * A membership mobile application for Bicol IT Org. An entry for Flutter Philippines' Flutter Hackathon 2019 that secured a top 9 spot out of 30 entries, and 85 participants.
 * Platform: Android
-* Open source and available on Github: [bit.ly/bicolit_app](https://github.com/harveyjavier/bicolit)
+* Open source and available on Github: [harvz.link/bicolitApp](https://harvz.link/bicolitApp)
 * Partner: Bicol IT Org.
 * Deployed on 2019
 
@@ -311,7 +311,7 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 
 * A casual arcade game for Android with blockchain rewards system for its top players in the leaderboard.
 * Platform: Android
-* Available on Google Play: [bit.ly/cryptoslicer](https://play.google.com/store/apps/details?id=com.cryptoslicer)
+* Available on Google Play: [srk.sh/slicer](https://srk.sh/slicer)
 * Employer: SparkPoint Technologies Inc.
 * Deployed on 2020
 
@@ -319,8 +319,8 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 
 * An application that displays COVID-19 data worldwide using Flutter framework and [github.com/NovelCOVID/api](https://github.com/NovelCOVID/api)
 * Platform: Android
-* Open source and available on Github: [bit.ly/covid19_analytics_github](https://github.com/harveyjavier/covid19_analytics_app).
-* Downloadable apk: [bit.ly/covid19_analytics](https://drive.google.com/file/d/1UReWXdRzx4c1keyjtCB0Z82xCPCLPS7t/view?usp=sharing)
+* Open source and available on Github: [harvz.link/covid19AnalyticsGH](https://harvz.link/covid19AnalyticsGH).
+* Downloadable apk: [harvz.link/covid19AnalyticsAPK](https://harvz.link/covid19AnalyticsAPK)
 * Own project
 * Deployed on 2020
 
@@ -328,8 +328,16 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 
 * A casual puzzle game for Android with blockchain rewards system for its top players in the leaderboard.
 * Platform: Android
-* Available on Google Play: [io.sparkpoint.cryptoburst](https://play.google.com/store/apps/details?id=io.sparkpoint.cryptoburst)
+* Available on Google Play: [srk.sh/burst](https://srk.sh/burst)
 * Employer: SparkPoint Technologies Inc.
+* Deployed on 2020
+
+### Chem Clock
+
+* A digital clock app inspired by the Periodic Table of Elements. An entry for Flutter Clock Challenge.
+* Platform: Android
+Open source and available on Github: [harvz.link/chemClock](https://harvz.link/chemClock).
+* Own Project
 * Deployed on 2020
 
 ### Park Side Drug Transactions Monitoring System
@@ -343,7 +351,7 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 
 * A casual shooting puzzle game featuring our main character and company mascot, Sparky the Sparrow. Each level, you will be saving her babies that are stuck inside a group of cryptocurrency bubbles by shooting it with a bubble that matches its kind.
 * Platform: Android
-* Available on Google Play: [io.sparkpoint.cryptoshooter](https://play.google.com/store/apps/details?id=io.sparkpoint.cryptoshooter)
+* Available on Google Play: [srk.sh/shooter](https://srk.sh/shooter)
 * Employer: SparkPoint Technologies Inc.
 * Deployed on 2020
 
@@ -351,7 +359,7 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 
 * A simple progress tracker for Axie Infinity scholars and managers. It is also open source and the code is available on [github.com/harveyjavier/axie-tracker](https://github.com/harveyjavier/axie-tracker) under MIT license.
 * Platform: Web
-* Web app link: [harveyjavier.github.io/axie-tracker/](https://harveyjavier.github.io/axie-tracker/)
+* Web app link: [harvz.link/axieTracker](https://harvz.link/axieTracker)
 * Own project
 * Deployed on 2021
 
@@ -359,7 +367,7 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 
 * An MOOC platform for SparkLearn EdTech's online courses, and one of its flagship course, the Blockchain Developer Bootcamp ([https://lrn.ac/bdb](https://bootcamp.sparklearn-edtech.com)).
 * Platform: Web
-* Web app link: [https://lrn.ac/web](https://sparklearn-edtech.com)
+* Web app link: [lrn.ac/web](https://lrn.ac/web)
 * Employer: SparkLearn EdTech Inc.
 * Deployed on 2022
 
@@ -367,7 +375,7 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 
 * Payment web app for accessing the paid courses of SparkLearn EdTech's MOOC ([https://lrn.ac/web](https://sparklearn-edtech.com)), and Blockchain Developer Bootcamp ([https://lrn.ac/bdb](https://bootcamp.sparklearn-edtech.com)). You can pay via crypto using MetaMask wallet with the following supported tokens: SRK, SRKb, SFUEL, ETH, BNB, USDT, BUSD. Payment via fiat will be rolled out soon.
 * Platform: Web
-* Web app link: [https://payment.sparklearn-edtech.com/bdb](https://payment.sparklearn-edtech.com/bdb)
+* Web app link: [lrn.ac/bdb](https://lrn.ac/bdb)
 * Employer: SparkLearn EdTech Inc.
 * Deployed on 2022
 
@@ -377,38 +385,38 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 
 * Ten Outstanding Projects for Leveraging Blockchain Technology
 * January 2021
-* [support.bmx.fund/hc/en-us/articles/1260801288510](https://support.bmx.fund/hc/en-us/articles/1260801288510)
+* [harvz.link/cryptosOfTheYear2020](https://harvz.link/cryptosOfTheYear2020)
 
 ### 1st Place 2020 Top 10 Crypto Gainers
 
 * SparkPoint SRK leads BitMart's 2020 Top 10 Crypto Gainers with 4,553.25% year-to-date return rate in USDT
 * December 2020
-* [twitter.com/sparkpointio/status/1340490978407239680](https://twitter.com/sparkpointio/status/1340490978407239680)
+* [harvz.link/1stPlaceTop10CryptoGainers](harvz.link/1stPlaceTop10CryptoGainers)
 
 ### Flutter Hack20
 
 * Top 72, 2nd Round Finalist
 * June 2020
-* Project Link: [bit.ly/feed_segrebot](https://flutterhackathon.com/#/projects/0d7e9210-b873-11ea-ce02-f547877a3ec9)
-* Certificate: [bit.ly/flutter_hack20](https://firebasestorage.googleapis.com/v0/b/harveyjavier-github-io.appspot.com/o/pdf%2Fhack20-certificate.pdf?alt=media&token=8f266565-58e6-4a70-8a7a-316b52c325d2)
+* Project Link: [harvz.link/feedSegreBot](https://harvz.link/feedSegreBot)
+* Certificate: [harvz.link/flutterHack20](https://harvz.link/flutterHack20)
 
 ### Hack-A-Tax PH
 
 * Top 20 Finalist
 * December 2019
-* [bit.ly/hackatax20](https://www.facebook.com/hackataxph/photos/a.159260545454187/159265872120321)
+* [harvz.link/hackATax20](https://harvz.link/hackATax20)
 
 ### Flutter PH's Flutter Hackathon
 
 * Top 9 Finalist
 * November 2019
-* [bit.ly/flutterfinalists](https://www.facebook.com/flutterphilippines/photos/a.397020597720315/580374179384955)
+* [harvz.link/flutterHackathon2019](https://harvz.link/flutterHackathon2019)
 
 ### I Know IT Wave 3 - Graphics Design Category
 
 * 1st Place
 * November 2016
-* [bit.ly/iknowit3](https://www.facebook.com/iknowitbicol/photos/a.1053161448128315/1053165618127898)
+* [harvz.link/iKnowIt3](https://harvz.link/iKnowIt3)
 
 ## REFERENCES
 
