@@ -104,59 +104,59 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 
 ### Crash Course on Python
 
-* Issued by Coursera ([harvz.link/ccOnPython](https://harvz.link/ccOnPython)) on November 2020
+* Issued by Coursera ([harvz.link/0xb48qx](https://harvz.link/0xb48qx)) on November 2020
 
 ### Introduction to Git and GitHub
 
-* Issued by Coursera ([harvz.link/introToGit](https://harvz.link/introToGit)) on November 2020
+* Issued by Coursera ([harvz.link/0xd42q9](https://harvz.link/0xd42q9)) on November 2020
 
 ### Troubleshooting and Debugging Techniques
 
-* Issued by Coursera ([harvz.link/debuggingTechniques](https://harvz.link/debuggingTechniques)) on October 2020
+* Issued by Coursera ([harvz.link/0xpki38](https://harvz.link/0xpki38)) on October 2020
 
 ### Flutter Hack20
 
-* Issued by Flutter Community ([harvz.link/flutterHack20](https://harvz.link/flutterHack20)) on June 2020
+* Issued by Flutter Community ([harvz.link/0xc9ah9](https://harvz.link/0xc9ah9)) on June 2020
 
 ### Game Development for Modern Platforms
 
-* Issued by Coursera ([harvz.link/gameDev4ModernPlatforms](https://harvz.link/gameDev4ModernPlatforms)) on April 2020
+* Issued by Coursera ([harvz.link/0x6l81w](https://harvz.link/0x6l81w)) on April 2020
 
 ### Introduction to Game Development
 
-* Issued by Coursera ([harvz.link/intro2GameDev](https://harvz.link/intro2GameDev)) on March 2020
+* Issued by Coursera ([harvz.link/0xphr97](https://harvz.link/0xphr97)) on March 2020
 
 ### Introduction to C# Programming and Unity
 
-* Issued by Coursera ([harvz.link/intro2Unity](https://harvz.link/intro2Unity)) on March 2020
+* Issued by Coursera ([harvz.link/0xe8b22](https://harvz.link/0xe8b22)) on March 2020
 
 ### Game-playing AI with Swift for TensorFlow
 
-* Issued by IBM ([harvz.link/gameDev4ModernPlatforms](https://harvz.link/gameDev4ModernPlatforms)) on February 2020
+* Issued by IBM ([harvz.link/0x4348o](https://harvz.link/0x4348o)) on February 2020
 
 ### Flutter Clock Challenge
 
-* Issued by Google ([harvz.link/flutterClockChallenge](https://harvz.link/flutterClockChallenge)) on January 2020
+* Issued by Google ([harvz.link/0x9go8a](https://harvz.link/0x9go8a)) on January 2020
 
 ### Docker Essentials: A Developer Introduction
 
-* Issued by IBM ([harvz.link/dockerEssentials](https://harvz.link/dockerEssentials)) on July 2019
+* Issued by IBM ([harvz.link/0xa90gh](https://harvz.link/0xa90gh)) on July 2019
 
 ### Machine Learning with Python
 
-* Issued by IBM ([harvz.link/mlWithPython](https://harvz.link/mlWithPython)) on July 2019
+* Issued by IBM ([harvz.link/0xi280w](https://harvz.link/0xi280w)) on July 2019
 
 ### Build Your Own Chatbot
 
-* Issued by IBM ([harvz.link/bldYourOwnChatbot](https://harvz.link/bldYourOwnChatbot)) on June 2019
+* Issued by IBM ([harvz.link/0xa93uc](https://harvz.link/0xa93uc)) on June 2019
 
 ### IBM Blockchain Foundation Developer
 
-* Issued by IBM ([harvz.link/ibmBlockchainFoundationDev](https://harvz.link/ibmBlockchainFoundationDev)) on June 2019
+* Issued by IBM ([harvz.link/0xg978o](https://harvz.link/0xg978o)) on June 2019
 
 ### Python for Data Science
 
-* Issued by IBM ([harvz.link/python4DataScience](https://harvz.link/python4DataScience)) on June 2019
+* Issued by IBM ([harvz.link/0xv6w0p](https://harvz.link/0xv6w0p)) on June 2019
 
 ## SOFTWARES DEVELOPED
 
@@ -262,7 +262,7 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 
 * A food delivery, assitance, and freight forwarding mobile application integrated with cryptocurrency rewards using SparkPoint's token, SRK.
 * Plaform: Android
-* Available on Google Play: [harvz.link/dlx](https://harvz.link/dlx)
+* Available on Google Play: [harvz.link/0x2c4lj](https://harvz.link/0x2c4lj)
 * Employer: SparkPoint Technologies Inc.
 * Deployed on 2019
 
@@ -270,7 +270,7 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 
 * The rider app of Dlvery Expark.
 * Plaform: Android
-* Available on Google Play: [harvz.link/dlxRider](https://harvz.link/dlxRider)
+* Available on Google Play: [harvz.link/0xz60t6](https://harvz.link/0xz60t6)
 * Employer: SparkPoint Technologies Inc.
 * Deployed on 2019
 
@@ -287,7 +287,7 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 
 * A casual 2D pixel game for Android.
 * Platform: Android
-* Available on Google Play: [harvz.link/pixelClimb](https://harvz.link/pixelClimb)
+* Available on Google Play: [harvz.link/0xzn1e7](https://harvz.link/0xzn1e7)
 * Own Project
 * Deployed on 2019
 
@@ -295,7 +295,7 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 
 * A membership mobile application for Bicol IT Org. An entry for Flutter Philippines' Flutter Hackathon 2019 that secured a top 9 spot out of 30 entries, and 85 participants.
 * Platform: Android
-* Open source and available on Github: [harvz.link/bicolitApp](https://harvz.link/bicolitApp)
+* Open source and available on Github: [harvz.link/0xgi2d7](https://harvz.link/0xgi2d7)
 * Partner: Bicol IT Org.
 * Deployed on 2019
 
@@ -311,8 +311,8 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 
 * An application that displays COVID-19 data worldwide using Flutter framework and [github.com/NovelCOVID/api](https://github.com/NovelCOVID/api)
 * Platform: Android
-* Open source and available on Github: [harvz.link/covid19AnalyticsGH](https://harvz.link/covid19AnalyticsGH).
-* Downloadable apk: [harvz.link/covid19AnalyticsAPK](https://harvz.link/covid19AnalyticsAPK)
+* Open source and available on Github: [harvz.link/0x94m8h](https://harvz.link/0x94m8h).
+* Downloadable apk: [harvz.link/0xtn3b1](https://harvz.link/0xtn3b1)
 * Own project
 * Deployed on 2020
 
@@ -328,7 +328,7 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 
 * A digital clock app inspired by the Periodic Table of Elements. An entry for Flutter Clock Challenge.
 * Platform: Android
-* Open source and available on Github: [harvz.link/chemClock](https://harvz.link/chemClock).
+* Open source and available on Github: [harvz.link/0x5oc7w](https://harvz.link/0x5oc7w).
 * Own Project
 * Deployed on 2020
 
@@ -351,8 +351,8 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 
 * A simple progress tracker for Axie Infinity scholars and managers.
 * Platform: Web
-* Open source and available on Github: [harvz.link/axieTrackerGH](https://harvz.link/axieTrackerGH)
-* Web app link: [harvz.link/axieTracker](https://harvz.link/axieTracker)
+* Open source and available on Github: [harvz.link/0xmke73](https://harvz.link/0xmke73)
+* Web app link: [harvz.link/0x23txw](https://harvz.link/0x23txw)
 * Own project
 * Deployed on 2021
 
@@ -377,38 +377,38 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 
 * Ten Outstanding Projects for Leveraging Blockchain Technology
 * January 2021
-* [harvz.link/cryptosOfTheYear2020](https://harvz.link/cryptosOfTheYear2020)
+* [harvz.link/0xn4u76](https://harvz.link/0xn4u76)
 
 ### 1st Place 2020 Top 10 Crypto Gainers
 
 * SparkPoint SRK leads BitMart's 2020 Top 10 Crypto Gainers with 4,553.25% year-to-date return rate in USDT
 * December 2020
-* [harvz.link/1stPlaceTop10CryptoGainers](harvz.link/1stPlaceTop10CryptoGainers)
+* [harvz.link/0x2n8o4](harvz.link/0x2n8o4)
 
 ### Flutter Hack20
 
 * Top 72, 2nd Round Finalist
 * June 2020
-* Project Link: [harvz.link/feedSegreBot](https://harvz.link/feedSegreBot)
-* Certificate: [harvz.link/flutterHack20](https://harvz.link/flutterHack20)
+* Project Link: [harvz.link/0xq1r3r](https://harvz.link/0xq1r3r)
+* Certificate: [harvz.link/0xc9ah9](https://harvz.link/0xc9ah9)
 
 ### Hack-A-Tax PH
 
 * Top 20 Finalist
 * December 2019
-* [harvz.link/hackATax20](https://harvz.link/hackATax20)
+* [harvz.link/0xp4756](https://harvz.link/0xp4756)
 
 ### Flutter PH's Flutter Hackathon
 
 * Top 9 Finalist
 * November 2019
-* [harvz.link/flutterHackathon2019](https://harvz.link/flutterHackathon2019)
+* [harvz.link/0xb588w](https://harvz.link/0xb588w)
 
 ### I Know IT Wave 3 - Graphics Design Category
 
 * 1st Place
 * November 2016
-* [harvz.link/iKnowIt3](https://harvz.link/iKnowIt3)
+* [harvz.link/0xc8t4t](https://harvz.link/0xc8t4t)
 
 ## REFERENCES
 
