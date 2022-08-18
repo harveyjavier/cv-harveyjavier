@@ -105,27 +105,32 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 ### Crash Course on Python
 
 * Issuer: Coursera
-* Link to certificate: [harvz.link/0xb48qx](https://harvz.link/0xb48qx) on November 2020
+* Link to certificate: [harvz.link/0xb48qx](https://harvz.link/0xb48qx)
+* Date issued: November 2020
 
 ### Introduction to Git and GitHub
 
 * Issuer: Coursera
-* Link to certificate: [harvz.link/0xd42q9](https://harvz.link/0xd42q9) on November 2020
+* Link to certificate: [harvz.link/0xd42q9](https://harvz.link/0xd42q9)
+* Date issued: November 2020
 
 ### Troubleshooting and Debugging Techniques
 
 * Issuer: Coursera
-* Link to certificate: [harvz.link/0xpki38](https://harvz.link/0xpki38) on October 2020
+* Link to certificate: [harvz.link/0xpki38](https://harvz.link/0xpki38)
+* Date issued: October 2020
 
 ### Flutter Hack20
 
 * Issuer: Flutter Community
-* Link to certificate: [harvz.link/0xc9ah9](https://harvz.link/0xc9ah9) on June 2020
+* Link to certificate: [harvz.link/0xc9ah9](https://harvz.link/0xc9ah9)
+* Date issued: June 2020
 
 ### Game Development for Modern Platforms
 
 * Issuer: Coursera
-* Link to certificate: [harvz.link/0x6l81w](https://harvz.link/0x6l81w) on April 2020
+* Link to certificate: [harvz.link/0x6l81w](https://harvz.link/0x6l81w)
+* Date issued: April 2020
 
 ### Introduction to Game Development
 
