@@ -104,65 +104,90 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 
 ### Crash Course on Python
 
-* Issued by Coursera ([harvz.link/0xb48qx](https://harvz.link/0xb48qx)) on November 2020
+* Issuer: Coursera
+* Link to certificate: [harvz.link/0xb48qx](https://harvz.link/0xb48qx) on November 2020
 
 ### Introduction to Git and GitHub
 
-* Issued by Coursera ([harvz.link/0xd42q9](https://harvz.link/0xd42q9)) on November 2020
+* Issuer: Coursera
+* Link to certificate: [harvz.link/0xd42q9](https://harvz.link/0xd42q9) on November 2020
 
 ### Troubleshooting and Debugging Techniques
 
-* Issued by Coursera ([harvz.link/0xpki38](https://harvz.link/0xpki38)) on October 2020
+* Issuer: Coursera
+* Link to certificate: [harvz.link/0xpki38](https://harvz.link/0xpki38) on October 2020
 
 ### Flutter Hack20
 
-* Issued by Flutter Community ([harvz.link/0xc9ah9](https://harvz.link/0xc9ah9)) on June 2020
+* Issuer: Flutter Community
+* Link to certificate: [harvz.link/0xc9ah9](https://harvz.link/0xc9ah9) on June 2020
 
 ### Game Development for Modern Platforms
 
-* Issued by Coursera ([harvz.link/0x6l81w](https://harvz.link/0x6l81w)) on April 2020
+* Issuer: Coursera
+* Link to certificate: [harvz.link/0x6l81w](https://harvz.link/0x6l81w) on April 2020
 
 ### Introduction to Game Development
 
-* Issued by Coursera ([harvz.link/0xphr97](https://harvz.link/0xphr97)) on March 2020
+* Issuer: Coursera
+* Link to certificate: [harvz.link/0xphr97](https://harvz.link/0xphr97)
+* Date issued: March 2020
 
 ### Introduction to C# Programming and Unity
 
-* Issued by Coursera ([harvz.link/0xe8b22](https://harvz.link/0xe8b22)) on March 2020
+* Issuer: Coursera
+* Link to certificate: [harvz.link/0xe8b22](https://harvz.link/0xe8b22)
+* Date issued: March 2020
 
 ### Game-playing AI with Swift for TensorFlow
 
-* Issued by IBM ([harvz.link/0x4348o](https://harvz.link/0x4348o)) on February 2020
+* Issuer: IBM
+* Link to certificate: [harvz.link/0x4348o](https://harvz.link/0x4348o)
+* Date issued: February 2020
 
 ### Flutter Clock Challenge
 
-* Issued by Google ([harvz.link/0x9go8a](https://harvz.link/0x9go8a)) on January 2020
+* Issuer: Google
+* Link to certificate: [harvz.link/0x9go8a](https://harvz.link/0x9go8a)
+* Date issued: January 2020
 
 ### Docker Essentials: A Developer Introduction
 
-* Issued by IBM ([harvz.link/0xa90gh](https://harvz.link/0xa90gh)) on July 2019
+* Issuer: IBM
+* Link to certificate: [harvz.link/0xa90gh](https://harvz.link/0xa90gh)
+* Date issued: July 2019
 
 ### Machine Learning with Python
 
-* Issued by IBM ([harvz.link/0xi280w](https://harvz.link/0xi280w)) on July 2019
+* Issuer: IBM
+* Link to certificate: [harvz.link/0xi280w](https://harvz.link/0xi280w)
+* Date issued: July 2019
 
 ### Build Your Own Chatbot
 
-* Issued by IBM ([harvz.link/0xa93uc](https://harvz.link/0xa93uc)) on June 2019
+* Issuer: IBM
+* Link to certificate: [harvz.link/0xa93uc](https://harvz.link/0xa93uc)
+* Date issued: June 2019
 
 ### IBM Blockchain Foundation Developer
 
-* Issued by IBM ([harvz.link/0xg978o](https://harvz.link/0xg978o)) on June 2019
+* Issuer: IBM
+* Link to certificate: [harvz.link/0xg978o](https://harvz.link/0xg978o)
+* Date issued: June 2019
 
 ### Python for Data Science
 
-* Issued by IBM ([harvz.link/0xv6w0p](https://harvz.link/0xv6w0p)) on June 2019
+* Issuer: IBM
+* Link to certificate: [harvz.link/0xv6w0p](https://harvz.link/0xv6w0p)
+* Date issued: June 2019
 
 ## ARTICLES WRITTEN
 
 ### How To Setup Android SDK Without Android Studio on Windows 11 from Scratch
 
-* Written on Medium ([harvz.link/0xfjk51](https://harvz.link/0xfjk51)) on July 2022
+* Platform: Medium
+* Link to article: ([harvz.link/0xfjk51](https://harvz.link/0xfjk51))
+* Date written: July 2022
 
 ## SOFTWARES DEVELOPED
 
