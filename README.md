@@ -158,6 +158,12 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 
 * Issued by IBM ([harvz.link/0xv6w0p](https://harvz.link/0xv6w0p)) on June 2019
 
+## ARTICLES WRITTEN
+
+### How To Setup Android SDK Without Android Studio on Windows 11 from Scratch
+
+* Written on Medium ([harvz.link/0xfjk51](https://harvz.link/0xfjk51)) on July 2022
+
 ## SOFTWARES DEVELOPED
 
 ### Electronic Document Monitoring System for BU ESC
