@@ -194,6 +194,18 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 * Link to article: ([harvz.link/0xfjk51](https://harvz.link/0xfjk51))
 * Date written: July 2022
 
+### React JS App Initial Folder Structure
+
+* Platform: Medium
+* Link to article: ([harvz.link/0xz49fe](https://harvz.link/0xz49fe))
+* Date written: August 2022
+
+### Action Required: Your app is not compliant with Google Play Policies. How to resolve it?
+
+* Platform: Medium
+* Link to article: ([harvz.link/0xh792f](https://harvz.link/0xh792f))
+* Date written: August 2022
+
 ## SOFTWARES DEVELOPED
 
 ### Electronic Document Monitoring System for BU ESC
