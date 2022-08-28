@@ -421,17 +421,23 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 
 ## HONORS & AWARDS
 
-### Cryptos of the Year 2020
+### I Know IT Wave 3 - Graphics Design Category
 
-* Ten Outstanding Projects for Leveraging Blockchain Technology
-* January 2021
-* [harvz.link/0xn4u76](https://harvz.link/0xn4u76)
+* 1st Place
+* November 2016
+* [harvz.link/0xc8t4t](https://harvz.link/0xc8t4t)
 
-### 1st Place 2020 Top 10 Crypto Gainers
+### Flutter PH's Flutter Hackathon
 
-* SparkPoint SRK leads BitMart's 2020 Top 10 Crypto Gainers with 4,553.25% year-to-date return rate in USDT
-* December 2020
-* [harvz.link/0x2n8o4](harvz.link/0x2n8o4)
+* Top 9 Finalist
+* November 2019
+* [harvz.link/0xb588w](https://harvz.link/0xb588w)
+
+### Hack-A-Tax PH
+
+* Top 20 Finalist
+* December 2019
+* [harvz.link/0xp4756](https://harvz.link/0xp4756)
 
 ### Flutter Hack20
 
@@ -440,23 +446,17 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 * Project Link: [harvz.link/0xq1r3r](https://harvz.link/0xq1r3r)
 * Certificate: [harvz.link/0xc9ah9](https://harvz.link/0xc9ah9)
 
-### Hack-A-Tax PH
+### 1st Place 2020 Top 10 Crypto Gainers
 
-* Top 20 Finalist
-* December 2019
-* [harvz.link/0xp4756](https://harvz.link/0xp4756)
+* SparkPoint SRK leads BitMart's 2020 Top 10 Crypto Gainers with 4,553.25% year-to-date return rate in USDT
+* December 2020
+* [harvz.link/0x2n8o4](harvz.link/0x2n8o4)
 
-### Flutter PH's Flutter Hackathon
+### Cryptos of the Year 2020
 
-* Top 9 Finalist
-* November 2019
-* [harvz.link/0xb588w](https://harvz.link/0xb588w)
-
-### I Know IT Wave 3 - Graphics Design Category
-
-* 1st Place
-* November 2016
-* [harvz.link/0xc8t4t](https://harvz.link/0xc8t4t)
+* Ten Outstanding Projects for Leveraging Blockchain Technology
+* January 2021
+* [harvz.link/0xn4u76](https://harvz.link/0xn4u76)
 
 ## REFERENCES
 
