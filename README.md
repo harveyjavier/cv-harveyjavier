@@ -462,8 +462,13 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 
 ### Rico Zuñiga
 
-* Mentor
+* Mentor and Colleague
 * [ricozuniga.com](http://ricozuniga.com)
+
+### Melissa Mesias
+
+* Mentor and Colleague
+* m.mesias@sparklearn-edtech.com
 
 ### Medard Mandane
 
