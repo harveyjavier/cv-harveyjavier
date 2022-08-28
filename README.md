@@ -102,76 +102,10 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 
 ## LICENSES & CERTIFICATIONS
 
-### Crash Course on Python
-
-* Issuer: Coursera
-* Link to certificate: [harvz.link/0xb48qx](https://harvz.link/0xb48qx)
-* Date issued: November 2020
-
-### Introduction to Git and GitHub
-
-* Issuer: Coursera
-* Link to certificate: [harvz.link/0xd42q9](https://harvz.link/0xd42q9)
-* Date issued: November 2020
-
-### Troubleshooting and Debugging Techniques
-
-* Issuer: Coursera
-* Link to certificate: [harvz.link/0xpki38](https://harvz.link/0xpki38)
-* Date issued: October 2020
-
-### Flutter Hack20
-
-* Issuer: Flutter Community
-* Link to certificate: [harvz.link/0xc9ah9](https://harvz.link/0xc9ah9)
-* Date issued: June 2020
-
-### Game Development for Modern Platforms
-
-* Issuer: Coursera
-* Link to certificate: [harvz.link/0x6l81w](https://harvz.link/0x6l81w)
-* Date issued: April 2020
-
-### Introduction to Game Development
-
-* Issuer: Coursera
-* Link to certificate: [harvz.link/0xphr97](https://harvz.link/0xphr97)
-* Date issued: March 2020
-
-### Introduction to C# Programming and Unity
-
-* Issuer: Coursera
-* Link to certificate: [harvz.link/0xe8b22](https://harvz.link/0xe8b22)
-* Date issued: March 2020
-
-### Game-playing AI with Swift for TensorFlow
+### Python for Data Science
 
 * Issuer: IBM
-* Link to certificate: [harvz.link/0x4348o](https://harvz.link/0x4348o)
-* Date issued: February 2020
-
-### Flutter Clock Challenge
-
-* Issuer: Google
-* Link to certificate: [harvz.link/0x9go8a](https://harvz.link/0x9go8a)
-* Date issued: January 2020
-
-### Docker Essentials: A Developer Introduction
-
-* Issuer: IBM
-* Link to certificate: [harvz.link/0xa90gh](https://harvz.link/0xa90gh)
-* Date issued: July 2019
-
-### Machine Learning with Python
-
-* Issuer: IBM
-* Link to certificate: [harvz.link/0xi280w](https://harvz.link/0xi280w)
-* Date issued: July 2019
-
-### Build Your Own Chatbot
-
-* Issuer: IBM
-* Link to certificate: [harvz.link/0xa93uc](https://harvz.link/0xa93uc)
+* Link to certificate: [harvz.link/0xv6w0p](https://harvz.link/0xv6w0p)
 * Date issued: June 2019
 
 ### IBM Blockchain Foundation Developer
@@ -180,11 +114,77 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 * Link to certificate: [harvz.link/0xg978o](https://harvz.link/0xg978o)
 * Date issued: June 2019
 
-### Python for Data Science
+### Build Your Own Chatbot
 
 * Issuer: IBM
-* Link to certificate: [harvz.link/0xv6w0p](https://harvz.link/0xv6w0p)
+* Link to certificate: [harvz.link/0xa93uc](https://harvz.link/0xa93uc)
 * Date issued: June 2019
+
+### Machine Learning with Python
+
+* Issuer: IBM
+* Link to certificate: [harvz.link/0xi280w](https://harvz.link/0xi280w)
+* Date issued: July 2019
+
+### Docker Essentials: A Developer Introduction
+
+* Issuer: IBM
+* Link to certificate: [harvz.link/0xa90gh](https://harvz.link/0xa90gh)
+* Date issued: July 2019
+
+### Flutter Clock Challenge
+
+* Issuer: Google
+* Link to certificate: [harvz.link/0x9go8a](https://harvz.link/0x9go8a)
+* Date issued: January 2020
+
+### Game-playing AI with Swift for TensorFlow
+
+* Issuer: IBM
+* Link to certificate: [harvz.link/0x4348o](https://harvz.link/0x4348o)
+* Date issued: February 2020
+
+### Introduction to C# Programming and Unity
+
+* Issuer: Coursera
+* Link to certificate: [harvz.link/0xe8b22](https://harvz.link/0xe8b22)
+* Date issued: March 2020
+
+### Introduction to Game Development
+
+* Issuer: Coursera
+* Link to certificate: [harvz.link/0xphr97](https://harvz.link/0xphr97)
+* Date issued: March 2020
+
+### Game Development for Modern Platforms
+
+* Issuer: Coursera
+* Link to certificate: [harvz.link/0x6l81w](https://harvz.link/0x6l81w)
+* Date issued: April 2020
+
+### Flutter Hack20
+
+* Issuer: Flutter Community
+* Link to certificate: [harvz.link/0xc9ah9](https://harvz.link/0xc9ah9)
+* Date issued: June 2020
+
+### Troubleshooting and Debugging Techniques
+
+* Issuer: Coursera
+* Link to certificate: [harvz.link/0xpki38](https://harvz.link/0xpki38)
+* Date issued: October 2020
+
+### Introduction to Git and GitHub
+
+* Issuer: Coursera
+* Link to certificate: [harvz.link/0xd42q9](https://harvz.link/0xd42q9)
+* Date issued: November 2020
+
+### Crash Course on Python
+
+* Issuer: Coursera
+* Link to certificate: [harvz.link/0xb48qx](https://harvz.link/0xb48qx)
+* Date issued: November 2020
 
 ## ARTICLES WRITTEN
 
