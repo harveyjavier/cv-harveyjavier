@@ -254,7 +254,7 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 
 * Mobile app version of Serapina - An online school system.
 * Platform: Android and iOS
-* Employer: CollabUX Web Solutions Co.
+* Affiliate: CollabUX Web Solutions Co.
 * 2018
 
 ### R & S Morales Fish Trading POS System
@@ -311,7 +311,7 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 * A food delivery, assitance, and freight forwarding mobile application integrated with cryptocurrency rewards using SparkPoint's token, SRK.
 * Plaform: Android
 * Available on Google Play: [harvz.link/0x2c4lj](https://harvz.link/0x2c4lj)
-* Employer: SparkPoint Technologies Inc.
+* Affiliate: SparkPoint Technologies Inc.
 * Deployed on 2019
 
 ### Dlvery Expark Rider
@@ -319,7 +319,7 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 * The rider app of Dlvery Expark.
 * Plaform: Android
 * Available on Google Play: [harvz.link/0xz60t6](https://harvz.link/0xz60t6)
-* Employer: SparkPoint Technologies Inc.
+* Affiliate: SparkPoint Technologies Inc.
 * Deployed on 2019
 
 ### SparkPoint Wallet
@@ -328,7 +328,7 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 * Plaform: Android and iOS
 * Available on Google Play: [srk.sh/wallet](https://srk.sh/wallet)
 * Available on App Store: [srk.sh/ioswallet](https://srk.sh/ioswallet)
-* Employer: SparkPoint Technologies Inc.
+* Affiliate: SparkPoint Technologies Inc.
 * Deployed on 2019
 
 ### Pixel Climb
@@ -352,7 +352,7 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 * A casual arcade game for Android with blockchain rewards system for its top players in the leaderboard.
 * Platform: Android
 * Available on Google Play: [srk.sh/slicer](https://srk.sh/slicer)
-* Employer: SparkPoint Technologies Inc.
+* Affiliate: SparkPoint Technologies Inc.
 * Deployed on 2020
 
 ### COVID19 Analytics App
@@ -369,7 +369,7 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 * A casual puzzle game for Android with blockchain rewards system for its top players in the leaderboard.
 * Platform: Android
 * Available on Google Play: [srk.sh/burst](https://srk.sh/burst)
-* Employer: SparkPoint Technologies Inc.
+* Affiliate: SparkPoint Technologies Inc.
 * Deployed on 2020
 
 ### Chem Clock
@@ -392,7 +392,7 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 * A casual shooting puzzle game featuring our main character and company mascot, Sparky the Sparrow. Each level, you will be saving her babies that are stuck inside a group of cryptocurrency bubbles by shooting it with a bubble that matches its kind.
 * Platform: Android
 * Available on Google Play: [srk.sh/shooter](https://srk.sh/shooter)
-* Employer: SparkPoint Technologies Inc.
+* Affiliate: SparkPoint Technologies Inc.
 * Deployed on 2020
 
 ### Axie Progress Tracker
@@ -404,19 +404,19 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 * Own project
 * Deployed on 2021
 
-### SparkLearn EdTech Web App
+### SparkLearn EdTech MOOC Platform
 
-* An MOOC platform for SparkLearn EdTech's online courses, and one of its flagship course, the Blockchain Developer Bootcamp ([lrn.ac/bdb](https://lrn.ac/bdb)).
+* MOOC and LMS platform for SparkLearn EdTech's online courses, and one of its flagship course, the Blockchain Developer Bootcamp ([lrn.ac/bdb](https://lrn.ac/bdb)).
 * Platform: Web
-* Web app link: [lrn.ac/app](https://lrn.ac/app)
-* Employer: SparkLearn EdTech Inc.
+* Web app link: [lrn.ac](https://lrn.ac)
+* Affiliate: SparkLearn EdTech Inc.
 * Deployed on 2022
 
 ### SparkLearn EdTech Payment App
 
 * Payment web app for accessing the paid courses of SparkLearn EdTech's MOOC ([lrn.ac/app](https://lrn.ac/app)), and Blockchain Developer Bootcamp ([lrn.ac/bdb](https://lrn.ac/bdb)). You can pay via crypto using MetaMask wallet with the following supported tokens: SRK, SRKb, SFUEL, ETH, BNB, USDT, BUSD. Payment via fiat will be rolled out soon.
 * Platform: Web
-* Employer: SparkLearn EdTech Inc.
+* Affiliate: SparkLearn EdTech Inc.
 * Deployed on 2022
 
 ## HONORS & AWARDS
