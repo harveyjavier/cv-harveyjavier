@@ -406,16 +406,9 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 
 ### SparkLearn EdTech MOOC Platform
 
-* MOOC and LMS platform for SparkLearn EdTech's online courses, and one of its flagship course, the Blockchain Developer Bootcamp ([lrn.ac/bdb](https://lrn.ac/bdb)).
+* MOOC and LMS platform for SparkLearn EdTech's online courses, and where one of its flagship cohort, the Blockchain Developer Bootcamp ([lrn.ac/bdb](https://lrn.ac/bdb)) is hosted.
 * Platform: Web
 * Web app link: [lrn.ac](https://lrn.ac)
-* Affiliate: SparkLearn EdTech Inc.
-* Deployed on 2022
-
-### SparkLearn EdTech Payment App
-
-* Payment web app for accessing the paid courses of SparkLearn EdTech's MOOC ([lrn.ac/app](https://lrn.ac/app)), and Blockchain Developer Bootcamp ([lrn.ac/bdb](https://lrn.ac/bdb)). You can pay via crypto using MetaMask wallet with the following supported tokens: SRK, SRKb, SFUEL, ETH, BNB, USDT, BUSD. Payment via fiat will be rolled out soon.
-* Platform: Web
 * Affiliate: SparkLearn EdTech Inc.
 * Deployed on 2022
 
