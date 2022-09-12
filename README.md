@@ -32,7 +32,7 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 
 ### SparkLearn EdTech Inc.
 
-* Position: Chief Technology Officer
+* Position: Co-founder and CTO
 * January 2022 - PRESENT
 * Spearheads the development of SparkLearn EdTech's tech products and platforms, and other technical aspects of the company.
 
@@ -468,7 +468,7 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 ### Melissa Mesias
 
 * Mentor and Colleague
-* m.mesias@sparklearn-edtech.com
+* [m.mesias@sparklearn-edtech.com](mailto:m.mesias@sparklearn-edtech.com)
 
 ### Medard Mandane
 
