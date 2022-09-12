@@ -456,15 +456,14 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 ### Rico Zuñiga
 
 * Mentor and Colleague
-* [ricozuniga.com](http://ricozuniga.com)
+* Email: [r.zuniga@sparkpoint.io](mailto:r.zuniga@sparkpoint.io)
 
 ### Melissa Mesias
 
 * Mentor and Colleague
-* [m.mesias@sparklearn-edtech.com](mailto:m.mesias@sparklearn-edtech.com)
+* Email: [m.mesias@sparklearn-edtech.com](mailto:m.mesias@sparklearn-edtech.com)
 
 ### Medard Mandane
 
 * Colleague
-* LinkedIn: [in/medardm/](https://www.linkedin.com/in/medardm/)
-* GitHub: [@medardmm](https://github.com/medardm)
+* Email: [m.mandane@sparkpoint.io](mailto:m.mandane@sparkpoint.io)
