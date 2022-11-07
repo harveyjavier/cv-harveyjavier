@@ -206,6 +206,30 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 * Link to article: [harvz.link/0xh792f](https://harvz.link/0xh792f)
 * Date written: August 2022
 
+### Blockchain 101: Consensus Mechanism
+
+* Platform: Medium
+* Link to article: [harvz.link/0xePk3k](https://harvz.link/0xePk3k)
+* Date written: September 2022
+
+### React JS: Functional and Class Components
+
+* Platform: Medium
+* Link to article: [harvz.link/0xMj55Q](https://harvz.link/0xMj55Q)
+* Date written: September 2022
+
+### Ethereum’s The Merge: Breaking Down the Facts and Debunking the Myths
+
+* Platform: Medium
+* Link to article: [harvz.link/0x5aCc6](https://harvz.link/0x5aCc6)
+* Date written: October 2022
+
+### The Movement from Web2 to Web3 Gaming
+
+* Platform: Medium
+* Link to article: [harvz.link/0xcn9N6](https://harvz.link/0xcn9N6)
+* Date written: November 2022
+
 ## SOFTWARES DEVELOPED
 
 ### Electronic Document Monitoring System for BU ESC
