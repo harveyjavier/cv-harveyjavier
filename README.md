@@ -57,37 +57,37 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 
 ### Mobile App Development Seminar and Workshop
 
-* Shared my knowledge and ideas about mobile development using Corona SDK during the seminar entitled "Mobile App Development Seminar and Workshop" as part of the Forbes College's Computer Festival 4.0.
-* March 9, 2018 at Forbes College, Legazpi City
+* Shared my knowledge and ideas about mobile development using Corona SDK during the seminar entitled _Mobile App Development Seminar and Workshop_ as part of the Forbes College's Computer Festival 4.0.
+* March 9, 2018 at Forbes College, Legazpi City, Albay
 
 ### Seminar and Workshop on Graphics Design and Database on Android Development
 
-* Shared my knowledge about graphics design using Adobe Photoshop, and database design on Android using SQLite, during the seminar entitled "Seminar and Workshop on Graphics Design and Database on Android Development" with over 300 Computer Science students
+* Shared my knowledge about graphics design using Adobe Photoshop, and database design on Android using SQLite, during the seminar entitled _Seminar and Workshop on Graphics Design and Database on Android Development_ with over 300 Computer Science students
 * February 13, 2019 at DEBESMSCAT, Mandaon, Masbate
 
 ### Bicol IT Blockchain Meetup 0x2
 
-* Discussed our recently launched cryptocurrency wallet app during the Bicol IT Blockchain Meetup 0x2. My talk was entitled "How We Made SparkX Cryptocurrency Wallet App in 2 Months". I discussed what is behind the development of the app, the tools and programming language used, and the app itself.
-* August 3, 2019 at Ctrl Alt Work, Legazpi City
+* Discussed our recently launched cryptocurrency wallet app during the Bicol IT Blockchain Meetup 0x2. My talk was entitled _How We Made SparkX Cryptocurrency Wallet App in 2 Months_. I discussed what is behind the development of the app, the tools and programming language used, and the app itself.
+* August 3, 2019 at Ctrl Alt Work, Legazpi City, Albay
 
 ### FabFest 3 - Android App Development
 
-* Discussed about the overview of Android, its history, architecture, frameworks, and the whole process and standards of developing its applications. My talk was entitled "Android App Development" as part of FabFest 3 by FabLab Bicol and Department of Trade and Industry.
-* November 6, 2019 at Casablanca, Legazpi City
+* Discussed about the overview of Android, its history, architecture, frameworks, and the whole process and standards of developing its applications. My talk was entitled _Android App Development_ as part of FabFest 3 by FabLab Bicol and Department of Trade and Industry.
+* November 6, 2019 at Casablanca, Legazpi City, Albay
 
 ### Bicol IT Flutter Workshop
 
 * Facilitated the training, and shared my expertise in mobile app development using Flutter framework for Bicol IT Org.'s Flutter Workshop. The workshop has a total of 12 participants which consists of IT educators, students, professionals, and enthusisasts.
-* December 7, 2019 and January 18, 2020 at Ctrl Alt Work, Legazpi City
+* December 7, 2019 and January 18, 2020 at Ctrl Alt Work, Legazpi City, Albay
 
 ### Flutter Seminar
 
 * Discussed an overview and the basics of mobile app development using Google's Flutter framework for Forbes College's CompFest 6.0.
-* March 12, 2020 at Pacific Mall Conference Hall, Legazpi City
+* March 12, 2020 at Pacific Mall Conference Hall, Legazpi City, Albay
 
 ### SparkLearn's Blockchain Developer Bootcamp 2021
 
-* Way back 2021, SparkLearn was still a platform of SparkPoint Technologies Inc.'s ecosystem. And one of its core program is the 2021 Blockchain Developer Bootcamp. In this cohort I trained several students from all over the world all about the basics of React JS, as React is one of the preferred front-end tools in interacting with Web3.
+* Virtually trained over 20 students from around the world (Philippines, Vietnam, South Africa, Urugay, and USA) all about the basics of React JS as part of the Blockchain Developer Bootcamp 2021 cohort.
 * September 2021 to March 2022
 
 ### DWCL CS IT Dept. School of Engineering and Computer Studies Curriculum Review and Industry Consultation 2022
@@ -97,8 +97,18 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 
 ### Blockchain 101 with DTI Region V
 
-* Shared my expertise on Blockchain Technology with DTI Region V, and other business owners and IT practioners in Bicol.
+* Shared my expertise on Blockchain technology with DTI Region V, MSMEs, business owners, startup founders, and ICT groups from different sectors (private, government, academe) in Bicol.
 * April 22, 2022 via Zoom
+
+### Philippine Institute of Certified Public Accountants (PICPA) Albay Chapter 2nd General Membership Meeting 
+
+* Shared the basics of cryptocurrencies, NFTs, and its underlying technology, Blockchain during my talk entitled _The ABCs of Cryptocurrencies and Non-fungible Tokens (NFTs)_ with PICPA Albay Chapter on their 2nd general membership meeting. This is also a PRC-Accredited seminar.
+* November 8, 2022 at Conference Hall, Casablanca Hotel, Legazpi City
+
+### Bicol Blockchain Conference 2022
+
+* Shared the basics and an overview of Blockchain technology during the Bicol Blockchain Conference 2022 with diverse audience coming from the government, private sectors, and academe.
+* November 14, 2022 at Alicia Hotel, Legazpi City
 
 ## LICENSES & CERTIFICATIONS
 
