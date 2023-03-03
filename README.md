@@ -110,6 +110,21 @@ A software engineer that spearhead, crafted, and deployed several tech products 
 * Shared the basics and an overview of Blockchain technology during the Bicol Blockchain Conference 2022 with diverse audience coming from the government, private sectors, and academe.
 * November 14, 2022 at Alicia Hotel, Legazpi City
 
+### Bitcoin Beer and Bitstories - End of Season Roundup
+
+* A recap together with the main organizers of the Philippine Web3 Festival, Web3PH Summit, Global Blockchain Summit, and the one I'm representing, the Bicol Blockchain Conference 2022. Paneled, debriefed and discussed what happened during BBC 2022 and its future plans.
+* November 24, 2022 at Draper Startup House Manila, Makati City
+
+### Department of Information and Communications Technology (DICT) Region IX Basulta - Web 3.0 101 Webinar
+
+* Shared my insights and expertise as a resource person during the webinar on _Web 3.0 101_ with DICT Region IX Basulta.
+* January 24, 2023 via Zoom
+
+### Ateneo De Naga University (ADNU) Accountancy Department - Accountancy and Allied Accounting Courses Celebration (AAACC) Week 2023
+
+* Shared my expertise as a resource speaker in the webinar series entitled _The Evolution of Cryptocurrencies and Digital Assets_ during ADNU AAACC Week 2023 day 2.
+* February 16, 2023 via Zoom
+
 ## LICENSES & CERTIFICATIONS
 
 ### Python for Data Science
