@@ -50,6 +50,11 @@ A software engineer that spearheaded, crafted, and deployed several tech product
 
 ## SPEAKING ENGAGEMENTS
 
+### Building on the Internet Computer Protocol (ICP) Blockchain: A Hands-on Workshop for Bicolano Developers
+
+* Trained around 100 participants with the fundamentals and key tools in building a decentralized application through DFINITY's ICP Network and the DFX library.
+* March 11, 2023 at Events Hall, Sunshine Skills Training and Development Center, Tagas, Daraga, Albay
+
 ### Ateneo De Naga University (ADNU) Accountancy Department - Accountancy and Allied Accounting Courses Celebration (AAACC) Week 2023
 
 * Shared my expertise as a resource speaker in the webinar series entitled _The Evolution of Cryptocurrencies and Digital Assets_ during ADNU AAACC Week 2023 day 2.
@@ -206,7 +211,7 @@ A software engineer that spearheaded, crafted, and deployed several tech product
 * Link to certificate: [harvz.link/0xv6w0p](https://harvz.link/0xv6w0p)
 * Date issued: June 2019
 
-## SOFTWARES DEVELOPED
+## SOFTWARE APPLICATIONS DEVELOPED
 
 ### SparkLearn EdTech LMS Platform
 
