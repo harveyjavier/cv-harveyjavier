@@ -38,7 +38,7 @@ A software engineer that spearheaded, crafted, and deployed several tech product
 
 ## EDUCATION
 
-### Bicol University College of Science, Legazpi City
+### Bicol University Graduate School, Legazpi City
 
 * Master in Information Systems
 * 2018 - 2020
