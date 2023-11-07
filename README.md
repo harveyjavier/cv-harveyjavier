@@ -6,35 +6,35 @@ A software engineer that spearheaded, crafted, and deployed several tech product
 
 ## EXPERIENCE
 
+### SparkPoint Technologies Inc.
+
+* Position: OIC CEO
+* November 2023 - PRESENT
+
 ### SparkLearn EdTech Inc.
 
 * Position: Co-founder and CTO
 * January 2022 - PRESENT
-* Spearheads the development of SparkLearn EdTech's tech products and platforms, and other technical aspects of the company.
 
 ### SparkPoint Technologies Inc.
 
 * Position: Technical Advisor
-* January 2022 - PRESENT
-* Technical advisory tasks for SparkPoint Technologies' tech products, specifically the SparkPoint Non-custodial Crypto Wallet.
+* January 2022 - October 2023
 
 ### SparkPoint Technologies Inc.
 
 * Position: Lead Mobile Developer
 * May 2019 - January 2022
-* Leads SparkPoint Ecosystem's SparkPoint Wallet and SparkPlay platforms, specializing in mobile (Android and iOS) application development.
 
 ### CollabUX Web Solutions, Co.
 
 * Position: Web and Mobile Developer
 * April 2017 - April 2019
-* Developed websites and mobile applications for the company’s clients and in-house projects.
 
 ### Bicol University Extension Service Center
 
 * Position: Intern and Web-based System Developer
 * June 2016 - September 2018
-* Assisted in office tasks and activities, and developed a web-based system called EDMS (Electronic Document Monitoring System).
 
 ## EDUCATION
 
@@ -49,6 +49,21 @@ A software engineer that spearheaded, crafted, and deployed several tech product
 * 2013 - 2017
 
 ## SPEAKING ENGAGEMENTS
+
+### Polytechnic University of the Philippines (PUP) Software Engineering Day: Blockchain 101
+
+* Shared my expertise on the cutting-edge and emerging technology, blockchain to Computer Science and IT students of Polytechnic University of the Philippines.
+* June 14, 2023 via Zoom
+
+### University of Santo Tomas Legazpi (UST-L) 1st Financial Market Seminar: Cryptocurrency
+
+* Discussed about the basics and use cases of cryptocurrency and its underlying technology, blockchain. The participants of my talk are Accountancy students from the College of Business, Management, and Accountancy (CBMA) in University of Santo Tomas Legazpi.
+* May 3-4, 2023 at University of Santo Tomas Legazpi Peñaranda Campus, Legazpi City, 4500
+
+### Ark of Dreams Web3 Bootcamp: How to Create Canisters and Deploy a Simple DApp on the ICP Blockchain
+
+* Shared the basics of developing decentralized applications via DFINITY's ICP Network and DFX library. Then mentored hackathon participants during the 2-day hackathon proper.
+* April 27-29, 2023 at Arete Building, Ateneo de Manila University, Katipunan Ave, Quezon City, 1108 Metro Manila
 
 ### Building on the Internet Computer Protocol (ICP) Blockchain: A Hands-on Workshop for Bicolano Developers
 
