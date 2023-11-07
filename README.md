@@ -2,7 +2,7 @@
 
 # HARVEY S. JAVIER
 
-A software engineer that spearheaded, crafted, and deployed several tech products for different verticals (gaming, e-commerce, education, science, engineering, fintech, blockchain). A mentor that educated several students, trainees, and professionals with the technologies and tools being used. And a continuous learner with several certifications, badges, completed online courses, contributions to open source projects, hackathons won, and awards received in certain endeavors inside the industry.
+A software engineer that spearheaded several tech products for different verticals (gaming, e-commerce, education, science, engineering, fintech, blockchain). A mentor that educated several students, trainees, and professionals with the technologies and tools being used. And a continuous learner with several certifications, badges, completed online courses, contributions to open source projects, hackathons won, and awards received in the tech industry.
 
 ## EXPERIENCE
 
