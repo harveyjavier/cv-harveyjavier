@@ -34,7 +34,7 @@ A software engineer that spearheaded several tech products for different vertica
 ### Bicol University Extension Service Center
 
 * Position: Intern and Web-based System Developer
-* June 2016 - September 2018
+* June 2016 - September 2016
 
 ## EDUCATION
 
