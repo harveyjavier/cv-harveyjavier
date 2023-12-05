@@ -50,6 +50,11 @@ A software engineer that spearheaded several tech products for different vertica
 
 ## SPEAKING ENGAGEMENTS
 
+### Civil Service Commission (CSC) Region V Bicol Tech Summit (BTS) 2023
+
+* Demystified the fundamentals of AI for CSC Region V's Bicol Tech Summit 2023.
+* November 28, 2023 at The Concourse Convention Center, Legazpi City, 4500
+
 ### Polytechnic University of the Philippines (PUP) Software Engineering Day: Blockchain 101
 
 * Shared my expertise on the cutting-edge and emerging technology, blockchain to Computer Science and IT students of Polytechnic University of the Philippines.
