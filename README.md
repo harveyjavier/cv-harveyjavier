@@ -14,7 +14,7 @@ A software engineer that spearheaded several tech products for different vertica
 ### SparkLearn EdTech Inc.
 
 * Position: Co-founder and CTO
-* January 2022 - PRESENT
+* January 2022 - November 2023
 
 ### SparkPoint Technologies Inc.
 
