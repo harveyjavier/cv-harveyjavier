@@ -2,13 +2,13 @@
 
 # HARVEY S. JAVIER
 
-A software engineer that spearheaded several tech products for different verticals (gaming, e-commerce, education, science, engineering, fintech, blockchain). A mentor that educated several students, trainees, and professionals with the technologies and tools being used. And a continuous learner with several certifications, badges, completed online courses, contributions to open source projects, hackathons won, and awards received in the tech industry.
+An accomplished software engineer with over seven years of experience, specializing in web, mobile, and game development, with a strong focus on blockchain technology. Since joining SparkPoint in 2019 as lead mobile developer, he spearheaded the development of SparkPoint’s non-custodial cryptocurrency wallet and mentored aspiring blockchain developers in SparkLearn’s Blockchain Developer Bootcamp. Additionally, he serves as a board member of the Bicol IT Org, a prominent non-profit ICT organization in the Bicol region.
 
 ## EXPERIENCE
 
 ### SparkPoint Technologies Inc.
 
-* Position: OIC CEO
+* Position: CEO
 * November 2023 - PRESENT
 
 ### SparkLearn EdTech Inc.
@@ -49,6 +49,16 @@ A software engineer that spearheaded several tech products for different vertica
 * 2013 - 2017
 
 ## SPEAKING ENGAGEMENTS
+
+### Bicol Information Technology Students Congress (BITSCON) 2024
+
+* Shared my knowledge and expertise on the topic _Demistifying Blockchain Technology_ during the BITSCON 2024 held in CNSC, Daet, Camarines Norte with delegates from several colleges and universities in Bicol offering computer and ICT courses.
+* April 25, 2024 at Camarines Norte State College, Daet, Camarines Norte, 4600
+
+### Camarines Sur Polytechnic Colleges 12th Bicol Youth Congress in Information Technology (BYCIT)
+
+* Shared my knowledge on the topic _Cybersecurity_ with the students of the College of Computer Studies of CSPC during their 12th BYCIT.
+* April 19, 2024 at Camarines Sur Polytechnic Colleges, Nabua, Camarines Sur, 4434
 
 ### Civil Service Commission (CSC) Region V Bicol Tech Summit (BTS) 2023
 
