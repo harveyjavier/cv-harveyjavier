@@ -2,14 +2,19 @@
 
 # HARVEY S. JAVIER
 
-An accomplished software engineer with over seven years of experience, specializing in web, mobile, and game development, with a strong focus on blockchain technology. Since joining SparkPoint in 2019 as lead mobile developer, he spearheaded the development of SparkPoint’s non-custodial cryptocurrency wallet and mentored aspiring blockchain developers in SparkLearn’s Blockchain Developer Bootcamp. Additionally, he serves as a board member of the Bicol IT Org, a prominent non-profit ICT organization in the Bicol region.
+An accomplished software engineer with over eight years of experience, specializing in web, mobile, and game development, with a strong focus on emerging technologies, including blockchain and artificial intelligence.
 
 ## EXPERIENCE
 
 ### SparkPoint Technologies Inc.
 
-* Position: CEO
-* November 2023 - PRESENT
+* Position: CTO
+* January 2025 - PRESENT
+
+### SparkPoint Technologies Inc.
+
+* Position: OIC CEO
+* November 2023 - December 2024
 
 ### SparkLearn EdTech Inc.
 
@@ -50,110 +55,123 @@ An accomplished software engineer with over seven years of experience, specializ
 
 ## SPEAKING ENGAGEMENTS
 
-### Bicol Information Technology Students Congress (BITSCON) 2024
+### SPHERE CONFERENCE 2024 by BU
 
-* Shared my knowledge and expertise on the topic _Demistifying Blockchain Technology_ during the BITSCON 2024 held in CNSC, Daet, Camarines Norte with delegates from several colleges and universities in Bicol offering computer and ICT courses.
-* April 25, 2024 at Camarines Norte State College, Daet, Camarines Norte, 4600
+* Topic: Circular Chains: The Role of Blockchain in Higher Education
+* November 4, 2024
+* The Concourse, Legazpi City, Albay, 4500
 
-### Camarines Sur Polytechnic Colleges 12th Bicol Youth Congress in Information Technology (BYCIT)
+### Bicol Information Technology Students Congress (BITSCON) 2024 by CODITE V
 
-* Shared my knowledge on the topic _Cybersecurity_ with the students of the College of Computer Studies of CSPC during their 12th BYCIT.
-* April 19, 2024 at Camarines Sur Polytechnic Colleges, Nabua, Camarines Sur, 4434
+* Topic: Demistifying Blockchain Technology
+* April 25, 2024
+* Camarines Norte State College, Daet, Camarines Norte, 4600
 
-### Civil Service Commission (CSC) Region V Bicol Tech Summit (BTS) 2023
+### 12th Bicol Youth Congress in Information Technology (BYCIT) 2024 by CSPC CSC
 
-* Demystified the fundamentals of AI for CSC Region V's Bicol Tech Summit 2023.
-* November 28, 2023 at The Concourse Convention Center, Legazpi City, 4500
+* Topic: Cybersecurity 101
+* April 19, 2024
+* Camarines Sur Polytechnic Colleges, Nabua, Camarines Sur, 4434
 
-### Polytechnic University of the Philippines (PUP) Software Engineering Day: Blockchain 101
+### Bicol Tech Summit (BTS) 2023 by CSC V
 
-* Shared my expertise on the cutting-edge and emerging technology, blockchain to Computer Science and IT students of Polytechnic University of the Philippines.
-* June 14, 2023 via Zoom
+* Topic: Demistifying Artificial Intelligence
+* November 28, 2023
+* The Concourse, Legazpi City, Albay, 4500
 
-### University of Santo Tomas Legazpi (UST-L) 1st Financial Market Seminar: Cryptocurrency
+### Software Engineering Day by PUP
 
-* Discussed about the basics and use cases of cryptocurrency and its underlying technology, blockchain. The participants of my talk are Accountancy students from the College of Business, Management, and Accountancy (CBMA) in University of Santo Tomas Legazpi.
-* May 3-4, 2023 at University of Santo Tomas Legazpi Peñaranda Campus, Legazpi City, 4500
+* Topic: Blockchain 101
+* June 14, 2023
+* via Zoom
 
-### Ark of Dreams Web3 Bootcamp: How to Create Canisters and Deploy a Simple DApp on the ICP Blockchain
+### 1st Financial Market Seminar by UST-L CBMA
 
-* Shared the basics of developing decentralized applications via DFINITY's ICP Network and DFX library. Then mentored hackathon participants during the 2-day hackathon proper.
-* April 27-29, 2023 at Arete Building, Ateneo de Manila University, Katipunan Ave, Quezon City, 1108 Metro Manila
+* Topic: Cryptocurrency
+* May 3-4, 2023
+* University of Santo Tomas Legazpi Peñaranda Campus, Legazpi City, 4500
 
-### Building on the Internet Computer Protocol (ICP) Blockchain: A Hands-on Workshop for Bicolano Developers
+### Web3 Bootcamp by Ark of Dreams
 
-* Trained around 100 participants with the fundamentals and key tools in building a decentralized application through DFINITY's ICP Network and the DFX library.
-* March 11, 2023 at Events Hall, Sunshine Skills Training and Development Center, Tagas, Daraga, Albay
+* Topic: How to Create Canisters and Deploy a Simple DApp on the ICP Blockchain
+* April 27-29, 2023
+* Arete Building, Ateneo de Manila University, Katipunan Ave, Quezon City, 1108 Metro Manila
 
-### Ateneo De Naga University (ADNU) Accountancy Department - Accountancy and Allied Accounting Courses Celebration (AAACC) Week 2023
+### Building on the ICP Blockchain: A Hands-on Workshop for Bicolano Developers
 
-* Shared my expertise as a resource speaker in the webinar series entitled _The Evolution of Cryptocurrencies and Digital Assets_ during ADNU AAACC Week 2023 day 2.
-* February 16, 2023 via Zoom
+* Topic: Workshop on DFINITY's ICP Network and the DFX library
+* March 11, 2023
+* Events Hall, Sunshine Skills Training and Development Center, Tagas, Daraga, Albay
 
-### Department of Information and Communications Technology (DICT) Region IX Basulta - Web 3.0 101 Webinar
+### Accountancy and Allied Accounting Courses Celebration (AAACC) Week 2023 by ADNU
 
-* Shared my insights and expertise as a resource person during the webinar on _Web 3.0 101_ with DICT Region IX Basulta.
-* January 24, 2023 via Zoom
+* Topic: The Evolution of Cryptocurrencies and Digital Assets
+* February 16, 2023
+* via Zoom
 
-### Bitcoin Beer and Bitstories - End of Season Roundup
+### Department of Information and Communications Technology (DICT) IX Webinar 
 
-* A recap together with the main organizers of the Philippine Web3 Festival, Web3PH Summit, Global Blockchain Summit, and the one I'm representing, the Bicol Blockchain Conference 2022. Paneled, debriefed and discussed what happened during BBC 2022 and its future plans.
-* November 24, 2022 at Draper Startup House Manila, Makati City
+* Topic: Web 3.0 101
+* January 24, 2023
+* via Zoom
 
 ### Bicol Blockchain Conference 2022
 
-* Shared the basics and an overview of Blockchain technology during the Bicol Blockchain Conference 2022 with diverse audience coming from the government, private sectors, and academe.
-* November 14, 2022 at Alicia Hotel, Legazpi City
+* Topic: Blockchain Technology
+* November 14, 2022
+* Alicia Hotel, Legazpi City, Albay
 
-### Philippine Institute of Certified Public Accountants (PICPA) Albay Chapter 2nd General Membership Meeting 
+### Philippine Institute of Certified Public Accountants (PICPA) Albay Chapter 2nd General Membership Meeting
 
-* Shared the basics of cryptocurrencies, NFTs, and its underlying technology, Blockchain during my talk entitled _The ABCs of Cryptocurrencies and Non-fungible Tokens (NFTs)_ with PICPA Albay Chapter on their 2nd general membership meeting. This is also a PRC-Accredited seminar.
-* November 8, 2022 at Conference Hall, Casablanca Hotel, Legazpi City
+* Topic: The ABCs of Cryptocurrencies and Non-fungible Tokens (NFTs)
+* November 8, 2022
+* Conference Hall, Casablanca Hotel, Legazpi City, Albay
 
-### Blockchain 101 with DTI Region V
+### Department of Trade and Industry (DTI) V
 
-* Shared my expertise on Blockchain technology with DTI Region V, MSMEs, business owners, startup founders, and ICT groups from different sectors (private, government, academe) in Bicol.
-* April 22, 2022 via Zoom
+* Topic: Blockchain 101
+* April 22, 2022
+* via Zoom
 
-### DWCL CS IT Dept. School of Engineering and Computer Studies Curriculum Review and Industry Consultation 2022
+### Blockchain Developer Bootcamp 2021
 
-* The Divine Word College of Legazpi CS IT Dept. School of Engineering and Computer Studies consulted from tech industry leaders in Albay to improve their curriculum. I introduced them Blockchain Technology and other Web3 related topics. And I also suggested to enhance their discussions regarding Cybersecurity.
-* February 24, 2022 via Google Meet
-
-### SparkLearn's Blockchain Developer Bootcamp 2021
-
-* Virtually trained over 20 students from around the world (Philippines, Vietnam, South Africa, Urugay, and USA) all about the basics of React JS as part of the Blockchain Developer Bootcamp 2021 cohort.
+* Topic: React JS and Solidity Smart Contract Development
 * September 2021 to March 2022
+* via Zoom
 
-### Flutter Seminar
+### Computer Festival 6.0 by Forbes College
 
-* Discussed an overview and the basics of mobile app development using Google's Flutter framework for Forbes College's CompFest 6.0.
-* March 12, 2020 at Pacific Mall Conference Hall, Legazpi City, Albay
+* Topic: Flutter
+* March 12, 2020
+* Pacific Mall Conference Hall, Legazpi City, Albay
 
-### Bicol IT Flutter Workshop
+### Flutter Workshop by Bicol IT
 
-* Facilitated the training, and shared my expertise in mobile app development using Flutter framework for Bicol IT Org.'s Flutter Workshop. The workshop has a total of 12 participants which consists of IT educators, students, professionals, and enthusisasts.
-* December 7, 2019 and January 18, 2020 at Ctrl Alt Work, Legazpi City, Albay
+* December 7, 2019 and January 18, 2020
+* Ctrl Alt Work, Legazpi City, Albay
 
-### FabFest 3 - Android App Development
+### FabFest 3 by FabLab Bicol and DTI V
 
-* Discussed about the overview of Android, its history, architecture, frameworks, and the whole process and standards of developing its applications. My talk was entitled _Android App Development_ as part of FabFest 3 by FabLab Bicol and Department of Trade and Industry.
-* November 6, 2019 at Casablanca, Legazpi City, Albay
+* Topic: Android Development
+* November 6, 2019
+* Conference Hall, Casablanca Hotel, Legazpi City, Albay
 
-### Bicol IT Blockchain Meetup 0x2
+### Blockchain Meetup 0x2 by Bicol IT
 
-* Discussed our recently launched cryptocurrency wallet app during the Bicol IT Blockchain Meetup 0x2. My talk was entitled _How We Made SparkX Cryptocurrency Wallet App in 2 Months_. I discussed what is behind the development of the app, the tools and programming language used, and the app itself.
-* August 3, 2019 at Ctrl Alt Work, Legazpi City, Albay
+* Topic: SparkPoint Cryptocurrency Wallet
+* August 3, 2019
+* Ctrl Alt Work, Legazpi City, Albay
 
 ### Seminar and Workshop on Graphics Design and Database on Android Development
 
-* Shared my knowledge about graphics design using Adobe Photoshop, and database design on Android using SQLite, during the seminar entitled _Seminar and Workshop on Graphics Design and Database on Android Development_ with over 300 Computer Science students
-* February 13, 2019 at DEBESMSCAT, Mandaon, Masbate
+* February 13, 2019
+* DEBESMSCAT, Mandaon, Masbate
 
-### Mobile App Development Seminar and Workshop
+### Computer Festival 4.0 by Forbes College
 
-* Shared my knowledge and ideas about mobile development using Corona SDK during the seminar entitled _Mobile App Development Seminar and Workshop_ as part of the Forbes College's Computer Festival 4.0.
-* March 9, 2018 at Forbes College, Legazpi City, Albay
+* Topic: Mobile App Development
+* March 9, 2018
+* Forbes College, Legazpi City, Albay
 
 ## LICENSES & CERTIFICATIONS
 
