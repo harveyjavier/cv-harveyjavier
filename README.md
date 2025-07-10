@@ -467,6 +467,13 @@ An accomplished software engineer with over eight years of experience, specializ
 
 ## HONORS & AWARDS
 
+### 2nd Place Solana Radar Global Hackathon - Hyperlocal Track
+
+* Secured 2nd place in the Solana Radar Global Hackathon - Hyperlocal Track presented by DOST V, DICT V, DTI V, and Bicol IT.
+* November 2024
+* Pitch video recording [harvz.link/0x2lQlh](https://harvz.link/0x2lQlh)
+* Page link [harvz.link/0xk3YZ4](https://harvz.link/0xk3YZ4)
+
 ### Cryptos of the Year 2020
 
 * Ten Outstanding Projects for Leveraging Blockchain Technology
@@ -477,7 +484,7 @@ An accomplished software engineer with over eight years of experience, specializ
 
 * SparkPoint SRK leads BitMart's 2020 Top 10 Crypto Gainers with 4,553.25% year-to-date return rate in USDT
 * December 2020
-* [harvz.link/0x2n8o4](harvz.link/0x2n8o4)
+* [harvz.link/0x2n8o4](https://harvz.link/0x2n8o4)
 
 ### Flutter Hack20
 
