@@ -467,12 +467,12 @@ An accomplished software engineer with over eight years of experience, specializ
 
 ## HONORS & AWARDS
 
-### 2nd Place Solana Radar Global Hackathon - Hyperlocal Track
+### 2024 Solana Radar Global Hackathon - Hyperlocal Track
 
-* Secured 2nd place in the Solana Radar Global Hackathon - Hyperlocal Track presented by DOST V, DICT V, DTI V, and Bicol IT.
+* 2nd Place
 * November 2024
-* Pitch video recording [harvz.link/0x2lQlh](https://harvz.link/0x2lQlh)
-* Page link [harvz.link/0xk3YZ4](https://harvz.link/0xk3YZ4)
+* Pitch video recording: [harvz.link/0x2lQlh](https://harvz.link/0x2lQlh)
+* Page link: [harvz.link/0xk3YZ4](https://harvz.link/0xk3YZ4)
 
 ### Cryptos of the Year 2020
 
