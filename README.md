@@ -175,6 +175,12 @@ An accomplished software engineer with over eight years of experience, specializ
 
 ## LICENSES & CERTIFICATIONS
 
+### The AI Engineer Path
+
+* Issuer: Scrimba
+* Link to certificate: [harvz.link/0xlNqb5](https://harvz.link/0xlNqb5)
+* Date issued: July 2025
+
 ### Crash Course on Python
 
 * Issuer: Coursera
@@ -267,6 +273,7 @@ An accomplished software engineer with over eight years of experience, specializ
 * November 2024
 * Pitch video recording: [harvz.link/0x2lQlh](https://harvz.link/0x2lQlh)
 * Page link: [harvz.link/0xk3YZ4](https://harvz.link/0xk3YZ4)
+* Game link: [harvz.link/0xzn1e7](https://harvz.link/0xzn1e7)
 
 ### Cryptos of the Year 2020
 
